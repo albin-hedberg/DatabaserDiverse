@@ -44,10 +44,10 @@ USE KlassenDb;
 --9
 --INSERT INTO Students
 --VALUES
---	(1, 'Albin', 'Hedberg Abarahamsson', 30, 'Göteborg'),
---	(2, 'Kevin', 'Sahlén', 0, 'Göteborg'),
---	(3, 'Maria', 'Edstrom', 0, 'H'),
---	(4, 'Sebastian', 'Moya Schöndorff', 0, 'F'),
---	(5, 'Lotta', 'Harmonen', 0, '');
+--	(1, 'Albin', 'Hedberg Abarahamsson', 30, 'Mölndal'),
+--	(2, 'Kevin', 'Sahlén', 33, 'Göteborg'),
+--	(3, 'Maria', 'Edstrom', 28, 'Stockholm'),
+--	(4, 'Sebastian', 'Moya Schöndorff', 37, 'Göteborg'),
+--	(5, 'Lotta', 'Harmonen', 28, 'Mikkeli');
 
 --SELECT * FROM Students;
