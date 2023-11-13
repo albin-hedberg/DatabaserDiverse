@@ -24,6 +24,7 @@
 --6
 --DROP TABLE DjurTbl;
 --USE DbDemo;
+--USE master;
 --DROP DATABASE DjurDB;
 
 --7
@@ -50,4 +51,3 @@ USE KlassenDb;
 --	(5, 'Lotta', 'Harmonen', 0, '');
 
 --SELECT * FROM Students;
-
